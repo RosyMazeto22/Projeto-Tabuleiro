@@ -24,7 +24,7 @@ public class NovoProjetoJava {
         
         System.out.println("********************************************");
         System.out.println("*   BEM VINDO AO INCRIVEL JOGO DE SUDOKU   *");
-        System.out.println("*   CRIADOR: WAGNER                        *");
+        System.out.println("*                                          *");
         System.out.println("*   VERSÃO: 1.3                            *");
         System.out.println("*                                          *");
         System.out.println("********************************************");
